@@ -1,0 +1,70 @@
+2021-06-14T04:05:21+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 223
+
+2021-06-14T04:05:21+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 223
+
+2021-06-14T04:30:39+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 189
+
+2021-06-14T04:30:39+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 189
+
+2021-06-14T04:33:00+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 198
+
+2021-06-14T04:33:01+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 198
+
+2021-06-14T04:33:01+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 198
+
+2021-06-14T04:33:01+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 198
+
+2021-06-14T04:39:02+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 203
+
+2021-06-14T04:45:20+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 218
+
+2021-06-14T04:45:20+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 218
+
+2021-06-14T04:45:21+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 218
+
+2021-06-14T04:45:45+00:00 CRITICAL Uncaught Error: Call to undefined function atm_content() in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php:208
+Stack trace:
+#0 C:\xampp\htdocs\wpdemo\wp-includes\shortcodes.php(343): wpb_demo_shortcode('', '', 'greeting')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\xampp\htdocs\wpdemo\wp-includes\shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(greeti...', 'do_shortcode_ta...', '[greeting]')
+#3 C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\homepage.php(26): do_shortcode('[greeting]')
+#4 C:\xampp\htdocs\wpdemo\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wpdemo\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wpdemo\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 208
+
+2021-06-14T04:50:20+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 200
+
+2021-06-14T04:50:21+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 200
+
+2021-06-14T04:50:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 200
+
+2021-06-14T04:50:22+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 200
+
+2021-06-14T04:52:42+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 224
+
+2021-06-14T05:58:57+00:00 CRITICAL syntax error, unexpected '"', expecting ';' or ',' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 197
+
+2021-06-14T05:58:57+00:00 CRITICAL syntax error, unexpected '"', expecting ';' or ',' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 197
+
+2021-06-14T05:59:09+00:00 CRITICAL syntax error, unexpected ''.get_permalink( $page->ID ).'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 197
+
+2021-06-14T05:59:36+00:00 CRITICAL syntax error, unexpected '{' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 197
+
+2021-06-14T06:08:01+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 198
+
+2021-06-14T08:44:34+00:00 CRITICAL syntax error, unexpected '$parent_pages' (T_VARIABLE), expecting ';' or ',' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 188
+
+2021-06-14T09:01:24+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 253
+
+2021-06-14T09:01:24+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 253
+
+2021-06-14T10:36:50+00:00 CRITICAL Uncaught Error: Call to undefined function do_atomic() in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\fronted-user-frm.php:63
+Stack trace:
+#0 C:\xampp\htdocs\wpdemo\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wpdemo\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wpdemo\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\fronted-user-frm.php on line 63
+

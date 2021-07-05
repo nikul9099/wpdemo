@@ -1,0 +1,48 @@
+2021-06-10T05:10:46+00:00 CRITICAL syntax error, unexpected '=' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 202
+
+2021-06-10T05:10:58+00:00 CRITICAL syntax error, unexpected '=' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 202
+
+2021-06-10T05:11:59+00:00 CRITICAL syntax error, unexpected '=' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 203
+
+2021-06-10T05:12:46+00:00 CRITICAL syntax error, unexpected '=' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 203
+
+2021-06-10T05:14:00+00:00 CRITICAL syntax error, unexpected '=' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 203
+
+2021-06-10T05:14:47+00:00 CRITICAL syntax error, unexpected 'var' (T_VAR) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 203
+
+2021-06-10T05:16:01+00:00 CRITICAL syntax error, unexpected 'var' (T_VAR) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 203
+
+2021-06-10T05:16:24+00:00 CRITICAL syntax error, unexpected 'var' (T_VAR) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 203
+
+2021-06-10T05:16:35+00:00 CRITICAL syntax error, unexpected '=' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 203
+
+2021-06-10T05:37:48+00:00 CRITICAL Uncaught Error: Call to undefined function alert() in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php:204
+Stack trace:
+#0 C:\xampp\htdocs\wpdemo\wp-includes\class-wp-hook.php(292): cf7_custom_url_check(true, 'https://wynnsgr...')
+#1 C:\xampp\htdocs\wpdemo\wp-includes\plugin.php(212): WP_Hook->apply_filters(true, Array)
+#2 C:\xampp\htdocs\wpdemo\wp-content\plugins\contact-form-7\includes\validation-functions.php(25): apply_filters('wpcf7_is_url', true, 'https://wynnsgr...')
+#3 C:\xampp\htdocs\wpdemo\wp-content\plugins\contact-form-7\modules\text.php(144): wpcf7_is_url('https://wynnsgr...')
+#4 C:\xampp\htdocs\wpdemo\wp-includes\class-wp-hook.php(292): wpcf7_text_validation_filter(Object(WPCF7_Validation), Object(WPCF7_FormTag))
+#5 C:\xampp\htdocs\wpdemo\wp-includes\plugin.php(212): WP_Hook->apply_filters(Object(WPCF7_Validation), Array)
+#6 C:\xampp\htdocs\wpdemo\wp-content\plugins\contact-form-7\includes\submission.php(366): apply_filters('wpcf7_validate_...', Object(WPCF7_Validatio in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 204
+
+2021-06-10T05:47:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function cf7_custom_url_check(), 2 passed in C:\xampp\htdocs\wpdemo\wp-includes\class-wp-hook.php on line 292 and exactly 3 expected in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php:198
+Stack trace:
+#0 C:\xampp\htdocs\wpdemo\wp-includes\class-wp-hook.php(292): cf7_custom_url_check(true, 'https://wynnsgr...')
+#1 C:\xampp\htdocs\wpdemo\wp-includes\plugin.php(212): WP_Hook->apply_filters(true, Array)
+#2 C:\xampp\htdocs\wpdemo\wp-content\plugins\contact-form-7\includes\validation-functions.php(25): apply_filters('wpcf7_is_url', true, 'https://wynnsgr...')
+#3 C:\xampp\htdocs\wpdemo\wp-content\plugins\contact-form-7\modules\text.php(144): wpcf7_is_url('https://wynnsgr...')
+#4 C:\xampp\htdocs\wpdemo\wp-includes\class-wp-hook.php(292): wpcf7_text_validation_filter(Object(WPCF7_Validation), Object(WPCF7_FormTag))
+#5 C:\xampp\htdocs\wpdemo\wp-includes\plugin.php(212): WP_Hook->apply_filters(Object(WPCF7_Validation), Array)
+#6 C:\xampp\htdo in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 198
+
+2021-06-10T06:01:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function cf7_custom_url_check(), 2 passed in C:\xampp\htdocs\wpdemo\wp-includes\class-wp-hook.php on line 292 and exactly 3 expected in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php:198
+Stack trace:
+#0 C:\xampp\htdocs\wpdemo\wp-includes\class-wp-hook.php(292): cf7_custom_url_check(true, 'https://wynnsgr...')
+#1 C:\xampp\htdocs\wpdemo\wp-includes\plugin.php(212): WP_Hook->apply_filters(true, Array)
+#2 C:\xampp\htdocs\wpdemo\wp-content\plugins\contact-form-7\includes\validation-functions.php(25): apply_filters('wpcf7_is_url', true, 'https://wynnsgr...')
+#3 C:\xampp\htdocs\wpdemo\wp-content\plugins\contact-form-7\modules\text.php(144): wpcf7_is_url('https://wynnsgr...')
+#4 C:\xampp\htdocs\wpdemo\wp-includes\class-wp-hook.php(292): wpcf7_text_validation_filter(Object(WPCF7_Validation), Object(WPCF7_FormTag))
+#5 C:\xampp\htdocs\wpdemo\wp-includes\plugin.php(212): WP_Hook->apply_filters(Object(WPCF7_Validation), Array)
+#6 C:\xampp\htdo in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 198
+

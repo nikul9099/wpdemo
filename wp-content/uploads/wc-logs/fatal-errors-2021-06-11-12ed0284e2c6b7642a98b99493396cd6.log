@@ -1,0 +1,12 @@
+2021-06-11T11:10:52+00:00 CRITICAL syntax error, unexpected ';', expecting ':' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\homepage.php on line 26
+
+2021-06-11T11:11:50+00:00 CRITICAL syntax error, unexpected ';', expecting ':' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\homepage.php on line 27
+
+2021-06-11T11:11:51+00:00 CRITICAL syntax error, unexpected ';', expecting ':' in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\homepage.php on line 27
+
+2021-06-11T12:50:12+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 197
+
+2021-06-11T12:50:12+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 197
+
+2021-06-11T12:50:26+00:00 CRITICAL syntax error, unexpected '<', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wpdemo\wp-content\themes\twentytwentyone-child\functions.php on line 197
+
